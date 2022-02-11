@@ -3,7 +3,7 @@
 "The overall objective of the project is to create a Spring Boot API, with utilisation of supporting tools, methodologies, and technologies, that encapsulates all fundamental and practical modules covered during training with QA."
 
 # Purpose of the Project:
-The purpose of this project was to build a basic Spring Boot book application connected to a MySQL database with CRUD functionality. It tests my ability to build a simple back-end Java application that utilises a MySQL database to carry out HTTP Requests. The project is an opportunity to display my understanding so far, of software development, the technologies I have been learning with QA, as well as incorporating project management methodologies into my work flow.
+The purpose of this project was to build a basic Spring Boot book application connected to a MySQL database with CRUD functionality. It tests my ability to build a simple back-end Java application that utilises a MySQL database to carry out HTTP Requests. The project was an opportunity to display my understanding so far, of software development, the technologies I have been learning with QA, as well as incorporating project management methodologies into my work flow.
 
 # How I Expected the Challenge to Go:
 <details><summary>Click to Expand:</summary>
