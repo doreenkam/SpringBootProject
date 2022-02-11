@@ -12,7 +12,7 @@ import nl.jqno.equalsverifier.EqualsVerifier;
 
 @SpringBootTest
 @ActiveProfiles("test")
-public class BookTests {
+public class BookDomainUnitTests {
 	
 	@Test
 	public void testEquals() {
