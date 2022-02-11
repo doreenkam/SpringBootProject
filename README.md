@@ -11,7 +11,7 @@ Initially, I was a little nervous to take on the challenge of the project as it 
 
 # What Went Well & What Didn’t Go As Planned:
 <details><summary>Click to Expand:</summary>
-Using Jira to plan took some time. Building the application itself was fine and I felt comfortable doing it. Using MySQL again didn’t start off so good as I had forgotten my credentials and my MacBook was causing me some issues, however once I had sorted that out, I was fine with managing my database and getting my Postman requests to work was relieving. Testing took up a lot more time than I had wanted and it caused some frustrations however overall, things seemed to work out in the end and I was relieved.</details>
+Using Jira to plan took some time. Building the application itself was fine and I felt comfortable doing it. Using MySQL again didn’t start off so good as I had forgotten my credentials and my MacBook was causing me some issues, however once I had sorted that out, I was fine with managing my database and getting my Postman requests to work was relieving. Testing took up a lot more time than I had wanted and it caused some frustrations however overall, things seemed to work out in the end and I was relieved. The night before submission, I realised all my commit histories on GitHub were disconnected to main so I could not merge anything, which is why I had to start a new repo.</details>
 
 # Possible Improvements for Future Revisions of the Project:
 <details><summary>Click to Expand:</summary>
